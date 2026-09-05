@@ -22,7 +22,6 @@ An endless runner built in Unity, made as part of Unity's **Junior Programmer** 
 ## Built With
 
 - **Unity** (C#)
-- ShaderLab (Unity shader files)
 
 ## Project Background
 
