@@ -2,7 +2,7 @@
 
 A 2D endless runner built in Unity, made as part of Unity's **Junior Programmer** learning pathway. Control a punk character who auto-runs through a town, jumping over incoming obstacles — hit one, and it's game over.
 
-▶️ **Play it here:** (https://play.unity.com/api/v1/games/game/287b5d83-31cb-4992-b869-e14fced54874/build/latest/frame)
+▶️ **Play it here:** (https://play.unity.com/en/games/287b5d83-31cb-4992-b869-e14fced54874/town-rebel)
 
 
 ## Gameplay
