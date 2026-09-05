@@ -2,9 +2,8 @@
 
 A 2D endless runner built in Unity, made as part of Unity's **Junior Programmer** learning pathway. Control a punk character who auto-runs through a town, jumping over incoming obstacles — hit one, and it's game over.
 
-▶️ **Play it here:** [Unity Play link](#) <!-- paste your Unity Play link here -->
+▶️ **Play it here:** (https://play.unity.com/api/v1/games/game/287b5d83-31cb-4992-b869-e14fced54874/build/latest/frame)
 
-![Town Rebel gameplay](Ekran_görüntüsü_2026-04-17_210753.png)
 
 ## Gameplay
 
@@ -34,6 +33,4 @@ This project was built by following Unity's **Junior Programmer** pathway, acros
 3. **Character Animation** — adding run, jump, and death animations, and tuning their timing to fit the game.
 4. **Sound & Particle Effects** — adding sound effects and particle effects for running, jumping, and crashing to bring the game to life.
 
-## Author
 
-Made by [Zeynep Yagci](https://github.com/zeynepygc) — part of learning Unity fundamentals through Unity's Junior Programmer certification path.
